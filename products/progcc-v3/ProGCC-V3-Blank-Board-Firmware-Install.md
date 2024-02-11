@@ -1,9 +1,11 @@
 ---
-title: ProGCC V3 Blank Board Firmware Install
-slug: Qa6_-progcc-v3
+title: Blank Board Firmware Install
 description: Learn how to download firmware for the ProGCC-V3-RP2040 controller and enable Pro Controller Wired Communications on your Nintendo Switch. Follow simple instructions to hold down the golden button and plug in a USB-C cable into the PCB to initiate the dow
-createdAt: Mon Aug 28 2023 16:49:27 GMT+0000 (Coordinated Universal Time)
-updatedAt: Tue Dec 05 2023 19:55:42 GMT+0000 (Coordinated Universal Time)
+published: true
+date: 2024-02-11T23:57:33.088Z
+tags: 
+editor: markdown
+dateCreated: 2024-02-11T23:44:29.847Z
 ---
 
 [Firmware Download](https://github.com/HandHeldLegend/ProGCC-V3-RP2040/raw/main/build/PROGCC_RP2040.uf2)
